@@ -4,11 +4,9 @@
       "Version": "1.0",
       "ReleaseDate": "2020-04-13",
       "BTLS_URI": "url",
-      "DLC":{
-         "BTLS_NativeUI": "1.0",
-         "BTLS_NativeUI_URI": "url",
-         "BTLS_Seasons": "1.0",
-         "BTLS_Seasons_URI": "url"
-      }
+      "BTLS_NativeUI": "1.0",
+      "BTLS_NativeUI_URI": "url",
+      "BTLS_Seasons": "1.0",
+      "BTLS_Seasons_URI": "url"
    }
 ]
