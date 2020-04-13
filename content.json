@@ -2,9 +2,10 @@
    "Product": "Back to Los Santos",
    "Version": "2.0",
    "ReleaseDate": "2020-04-13",
+   "Message": "",
    "BTLS_URI": "url",
    "BTLS_NativeUI": "1.0",
    "BTLS_NativeUI_URI": "url",
    "BTLS_Seasons": "1.0",
-   "BTLS_Seasons_URI": "url"
+   "BTLS_Seasons_URI": "url",
 }
