@@ -1,5 +1,8 @@
 [
    {
-      "Product": "Back to Los Santos"
+      "Product": "Back to Los Santos",
+      "Version": "1.0",
+      "ReleaseDate": "2020-04-13",
+      "BTLS_URI": "url",
    }
 ]
