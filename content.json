@@ -1,7 +1,7 @@
 {
    "Main":[
       {
-         "Product": "BTLS"
+         "Product": "BTLS",
          "BTLS_Version":"1.0",
          "ReleaseDate": "2020-04-13",
          "Message": "New version of BTLS is coming on DEC 12 2069 12:31",
