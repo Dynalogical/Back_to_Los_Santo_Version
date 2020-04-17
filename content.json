@@ -1,19 +1,27 @@
 {
-   "Product": "Back to Los Santos",
-   "BTLS_Version": "2.0",
-   "ReleaseDate": "2020-04-13",
-   "Message": "New version of BTLS is coming on DEC 12 2069 12:31",
-   "BTLS_URI": "https://raw.githubusercontent.com/Dynalogical/Back_to_Los_Santos_Version/master/content.json",
-   "DLC":{	   
-      "BTLS_NativeUI": "1.0",
-      "BTLS_NativeUI_URI": "url",
-      "BTLS_Seasons": "1.0",
-      "BTLS_Seasons_URI": "url",
-   },
-   "Missions":{	   
-      "DocsVan":{	   
-      	"title": "INSERT_TITLE_HERE",
-	"version": "1.0",
+   "Back to Los Santos":[
+      {
+         "BTLS_Version":"First",
+         "Custnumber":"123SC",
+         "ReleaseDate": "2020-04-13",
+         "Message": "New version of BTLS is coming on DEC 12 2069 12:31",
+         "BTLS_URI": "https://raw.githubusercontent.com/Dynalogical/Back_to_Los_Santos_Version/master/content.json"
       }
-   }
+   ],
+   "DLC":[
+      {
+         "Name":"BTLS_NativeUI",
+         "Version":"1.0"
+      },
+      {
+         "Name":"BTLS_Seasons",
+         "Version":"1.0"
+      }
+   ],
+   "Missions":[
+      {
+         "Title":"INSER_TITLE_HERE",
+         "Version":"1.0"
+      }
+   ]
 }
