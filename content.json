@@ -11,17 +11,20 @@
    "DLC":[
       {
          "Name":"BTLS_NativeUI",
-         "Version":"1.0"
+         "Version":"1.0",
+         "URL":""
       },
       {
          "Name":"BTLS_Seasons",
-         "Version":"1.0"
+         "Version":"1.0",
+         "URL":""
       }
    ],
    "Missions":[
       {
          "Title":"INSER_TITLE_HERE",
-         "Version":"1.0"
+         "Version":"1.0",
+         "URL":""
       }
    ]
 }
