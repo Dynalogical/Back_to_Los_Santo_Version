@@ -5,26 +5,30 @@
          "BTLS_Version":"1.0.0.0",
          "ReleaseDate": "2020-04-13",
          "Message": "New version of BTLS is coming on DEC 12 2069 12:31",
-         "BTLS_URI": "https://raw.githubusercontent.com/Dynalogical/Back_to_Los_Santos_Version/master/content.json"
+         "BTLS_URI": "https://raw.githubusercontent.com/Dynalogical/Back_to_Los_Santos_Version/master/content.json",
+         "Extension": ".dll"
       }
    ],
    "DLC":[
       {
          "Name":"Back to Los Santos_NativeUI",
          "Version":"1.0.0.0",
-         "URL":"https://github.com/Dynalogical/Back_to_Los_Santos_Version/raw/master/Back%20to%20Los%20Santos_NativeUI.dll"
+         "URL":"https://github.com/Dynalogical/Back_to_Los_Santos_Version/raw/master/Back%20to%20Los%20Santos_NativeUI.dll",
+         "Extension": ".dll"
       },
       {
          "Name":"Back to Los Santos_Seasons",
          "Version":"1.0.0.0",
-         "URL":""
+         "URL":"",
+         "Extension": ".asi"
       }
    ],
    "Missions":[
       {
          "Title":"INSER_TITLE_HERE",
          "Version":"1.0.0.0",
-         "URL":""
+         "URL":"",
+         "Extension": ".dll"
       }
    ]
 }
