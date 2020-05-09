@@ -4,7 +4,7 @@
          "Product": "Back to Los Santos",
          "BTLS_Version":"1.0.0.0",
          "ReleaseDate": "2020-04-13",
-         "Message": "New version of BTLS is coming on DEC 12 2069 12:31",
+         "Message": "",
          "BTLS_URI": "https://raw.githubusercontent.com/Dynalogical/Back_to_Los_Santos_Version/master/content.json",
          "Extension": ".dll"
       }
