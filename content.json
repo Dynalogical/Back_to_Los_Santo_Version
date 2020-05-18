@@ -32,7 +32,7 @@
          "Version":"1.0.0.0",
          "URL":"",
          "Extension": ".dll",
-         "Path":"./scripts/Missions"
+         "Path":"./scripts/Missions/"
       }
    ]
 }
