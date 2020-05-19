@@ -28,9 +28,9 @@
    ],
    "Missions":[
       {
-         "Title":"INSERT_TITLE_HERE",
+         "Title":"Back to Los Santos Tutorial",
          "Version":"1.0.0.0",
-         "URL":"https://raw.githubusercontent.com/Dynalogical/Back_to_Los_Santos_Version/master/content.json",
+         "URL":"https://github.com/Dynalogical/Back_to_Los_Santos_Version/blob/master/Back%20to%20Los%20Santos%20Tutorial.dll",
          "Extension": ".dll",
          "Path":"./scripts/Missions/"
       }
