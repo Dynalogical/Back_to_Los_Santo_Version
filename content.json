@@ -28,9 +28,9 @@
    ],
    "Missions":[
       {
-         "Title":"INSER_TITLE_HERE",
+         "Title":"INSERT_TITLE_HERE",
          "Version":"1.0.0.0",
-         "URL":"",
+         "URL":"https://raw.githubusercontent.com/Dynalogical/Back_to_Los_Santos_Version/master/content.json",
          "Extension": ".dll",
          "Path":"./scripts/Missions/"
       }
