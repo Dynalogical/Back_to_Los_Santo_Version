@@ -2,7 +2,7 @@
    "Main":[
       {
          "Product": "Back to Los Santos",
-         "BTLS_Version":"1.0.0.0",
+         "BTLS_Version":"1.0.0.1",
          "ReleaseDate": "2020-04-13",
          "Message": "",
          "BTLS_URI": "https://raw.githubusercontent.com/Dynalogical/Back_to_Los_Santos_Version/master/content.json",
@@ -38,7 +38,7 @@
    "Announcement":[
       {
          "content": "New version available. Download through mod menu.",
-         "BTLS_Version":"1.0.0.0",
+         "BTLS_Version":"1.0.0.1",
          "new_version":"Y"
       }
    ],
