@@ -37,12 +37,11 @@
    ],
    "Announcement":[
       {
-         "content": "New BTLS update is coming soon...",
+         "content": "New version available. Download through mod menu.",
          "BTLS_Version":"1.0.0.1",
          "Season_Version":"1.0.0.0",
          "UI_Version":"1.9.0.0",
          "TUT_Version":"1.0.0.0",
-         "new_version":"N"
-      }
+         "new_version":"Y
    ],
 }
